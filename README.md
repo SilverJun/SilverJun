@@ -10,6 +10,8 @@
 
 [![SilverJun's github stats](https://github-readme-stats.vercel.app/api?username=silverjun&show_icons=true&hide_border=true)](https://github.com/SilverJun)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverjun&layout=compact)](https://github.com/SilverJun)
+
 ### 🧐 I'm interested in...
 - Game Programming
 - Computer Graphics
