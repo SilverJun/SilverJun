@@ -21,6 +21,7 @@
 - Unity & Unreal Engine
 - Making Script Language
 - Deep Learning
+- Front/Back-end programming
 
 ### 😉 I can do these things...
 - C/C++/SDL/SFML/IMGUI/FMOD
@@ -30,3 +31,4 @@
 - Swift
 - Python/Tensorflow
 - Java
+- HTML/CSS/JS
